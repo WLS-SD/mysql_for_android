@@ -11,7 +11,7 @@ chmod +x start-mysql.sh stop-mysql.sh uninstall-mysql.sh
 
 cd
 
-cd mysql_for_android
+cd mysql_for_android_v2
 cd core
 chmod +x *
 
