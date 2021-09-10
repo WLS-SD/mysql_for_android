@@ -9,6 +9,7 @@ echo -n "" > logs.log
 
 #Aliases
 cd
+cd mysql_for_android
 cd utilities
 
 ./Aliases.sh
