@@ -8,7 +8,7 @@ echologs()
 echo -n "" > logs.log
 
 #Aliases
-cd ..
+cd
 cd utilities
 
 ./Aliases.sh
