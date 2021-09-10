@@ -2,15 +2,14 @@
 
 apt install figlet -y
 cd core
-cp start-mysql.sh stop-mysql.sh uninstall-mysql.sh $HOME
+cp start-mysql.sh stop-mysql.sh uninstall-mysql.sh update-mysql.sh $HOME
 
 
 cd
 
-chmod +x start-mysql.sh stop-mysql.sh uninstall-mysql.sh
+chmod +x start-mysql.sh stop-mysql.sh uninstall-mysql.sh update-mysql.sh
 
 cd
-
 cd mysql_for_android
 cd core
 chmod +x *
