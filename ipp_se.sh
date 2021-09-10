@@ -7,19 +7,19 @@
 
 #Permission_Provider
 cd
-cd mysql_for_android_v2
+cd mysql_for_android
 cd utilities
 chmod +x *
 
 
 cd
 
-cd mysql_for_android_v2
+cd mysql_for_android
 cd core
 chmod +x *
 
 cd
-cd mysql_for_android_v2
+cd mysql_for_android
 cd ui
 chmod +x *
 
@@ -27,6 +27,6 @@ chmod +x *
 #Setup_Executer
 
 cd
-cd mysql_for_android_v2
+cd mysql_for_android
 cd utilities
 ./setup.sh
