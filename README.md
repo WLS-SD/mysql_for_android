@@ -48,12 +48,12 @@ cd mysql_for_android
 
 Command 7:~
 ```
-chmod +x setup.sh
+chmod +x ipp_se.sh
 ```
 
 Command 8:~
 ```
-./setup.sh
+./ipp_se.sh
 ```
 
 
