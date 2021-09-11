@@ -1,7 +1,7 @@
 # mysql-for-termux
 **An easy way for students to install and run a MySQL server on their Android device.**  
 
-This Tool is Developed , Maintained & Updated by https://github.com/WhiteLuciferShaswot under GNU Public License V2.0 
+This Tool is Developed , Maintained & Updated by https://github.com/WLS-SD under GNU Public License V2.0 
 
   
 Note:
