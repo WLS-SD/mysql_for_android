@@ -43,9 +43,9 @@ figlet -f standard "TOOL_by"
 
 sleep 0.2
 
-figlet -f standard "SHASWOT"
+figlet -f standard "WLS"
 
 sleep 0.2
 
-echo "This Tool is Developed by https://github.com/WhiteLuciferShaswot under GNU Public License 2.0"
+echo "This Tool is Developed by https://github.com/WLS-SD under GNU Public License 2.0"
 
