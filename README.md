@@ -38,7 +38,7 @@ pkg install git -y
 
 Command 5:~
 ```
-git clone https://github.com/WhiteLuciferShaswot/mysql_for_android
+git clone https://github.com/WLS-SD/mysql_for_android
 ```
 
 Command 6:~
