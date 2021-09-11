@@ -16,7 +16,7 @@ sleep 0.5
 Light_Magenta="\e[95m"
 printf "${Light_Magenta}"
 
-echo "MySql Server Status :~ Activated / Database Started"
+echo "MySql Server Status :~ Database Started"
 sleep 0.2
 
 ./start-client.sh
