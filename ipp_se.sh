@@ -2,7 +2,8 @@
 #initial permission provider & setup Executer
 
 
-
+#Termux Storage Permission
+termux-setup-storage
 
 
 #Permission_Provider
