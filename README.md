@@ -87,11 +87,12 @@ stop-mysql
 
 
 
-## After you Execute './setup.sh' , it will ask to set your Database password so please Enter your New Password and Verify it.
+## After you Execute './ipp_se.sh' , it will ask to set your Database password so please Enter your New Password and Verify it , or you can keep password blank ( To keep Password blank Just Click enter button without typing Password ).
 ## When You Execute 'start-mysql' Command , it will again ask for DataBase Password so enter the Password that you have previously Set.
 ## Use 'start-mysql' Command to Start MySql Server.
 ## Use 'stop-mysql' Command to Stop MySql Server.
-
+## Use 'update-mysql' Command to Update MySql Through This Repo.
+## Use 'uninstall-mysql' Command to Uninstall MySql/MariaDb and all it's Dependencies.
 
 
 
