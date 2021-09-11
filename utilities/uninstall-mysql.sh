@@ -9,6 +9,9 @@ rm -rf start-mysql.sh
 
 rm -rf stop-mysql.sh
 
+rm -rf update-mysql.sh
+
+
 apt --purge remove mariadb -y
 
 
