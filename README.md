@@ -1,5 +1,5 @@
 # mysql-for-termux
-**This Tool is For  students to install and run a MySQL server on their Android device with help of Termux Application.**  
+**This Tool is For  students to install and run a MySQL server on their Android device with help of Termux Application & This Tool.**  
 
 This Tool is Developed , Maintained & Updated by https://github.com/WLS-SD under GNU Public License V2.0 
 
