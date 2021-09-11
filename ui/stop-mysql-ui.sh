@@ -38,7 +38,7 @@ printf "${LightCyan}"
 
 
 
-echo "This Tool is Made by 'https://github.com/WhiteLuciferShaswot' Under GNU Public License 2.0."
+echo "This Tool is Made by 'https://github.com/WLS-SD' Under GNU Public License 2.0."
  
 
 
