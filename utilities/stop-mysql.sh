@@ -19,6 +19,6 @@ Light_Magenta="\e[95m"
 sleep 0.2
 
 printf "${Light_Magenta}"
-echo "MySql Server Status :~ Deactivated / Database Stopped "
+echo "MySql Server Status :~ Database Stopped "
 
 exit
