@@ -47,5 +47,5 @@ figlet -f standard "WLS"
 
 sleep 0.2
 
-echo "This Tool is Developed by https://github.com/WLS-SD under GNU Public License 2.0"
+echo "This Tool is Developed by https://github.com/WLS-SD under GNU GENERAL PUBLIC LICENSE Version 3."
 
