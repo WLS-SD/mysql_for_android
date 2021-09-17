@@ -71,7 +71,7 @@ start-mysql
 
 
 ## When You Execute 'start-mysql' Command , it will again ask for DataBase Password so enter the Password that you have previously Set.
-## Use 'start-mysql' Command to Start MySql Server.``
+## Use 'start-mysql' Command to Start MySql Server.
 
 Command 11 (To Exit from MySql):~
 ```
