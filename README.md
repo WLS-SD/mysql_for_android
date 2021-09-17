@@ -99,9 +99,9 @@ stop-mysql
 
 
 
-## Requirements:~
+## Requirements Needed For Installation:~
 ## 1:~ minimum 500 MB Storage ( Size of MariaDb is Approximately 400MB ).
-## 2:~ minimum 100 MB of Mobile Data.
+## 2:~ minimum 100 MB of Mobile Data ( Internet Connection is Only Required While Installing MySql Server , After installation you canm use and run MariaDb/MySql Server without internet connection.).......
 
 ### NOTE:~ if you face any problems / errors then please inform me...i will try to solve / tackle it ....
 
