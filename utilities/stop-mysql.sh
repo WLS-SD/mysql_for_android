@@ -21,4 +21,12 @@ sleep 0.2
 printf "${Light_Magenta}"
 echo "MySql Server Status :~ Database Stopped "
 
+
+
+cd
+cd mysql_for_android/ui
+./db_stop_dt.dsdt
+
+cd
+
 exit
