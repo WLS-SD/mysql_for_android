@@ -21,7 +21,7 @@ sleep 0.2
 
 cd
 cd mysql_for_android/ui
-./db_start_dt.dsd
+./db_start_dt.dsdt
 
 
 
