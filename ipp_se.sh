@@ -3,7 +3,7 @@
 
 
 #Termux Storage Permission
-termux-setup-storage
+#termux-setup-storage
 
 
 #Permission_Provider
