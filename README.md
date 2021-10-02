@@ -39,36 +39,17 @@ Command 4:~
 pkg install git -y && git clone https://github.com/WLS-SD/mysql_for_android && cd mysql_for_android && chmod +x ipp_se.sh && ./ipp_se.sh
 ```
 
+## it will ask to set your Database password so please Enter your New Password and Verify it , or you can keep password blank ( To keep Password blank Just Click enter button without typing Password
+
 Command 5:~
-```
-git clone https://github.com/WLS-SD/mysql_for_android
-```
-
-Command 6:~
-```
-cd mysql_for_android 
-```
-
-Command 7:~
-```
-chmod +x ipp_se.sh
-```
-
-Command 8:~
-```
-./ipp_se.sh
-```
-## After you Execute './ipp_se.sh' , it will ask to set your Database password so please Enter your New Password and Verify it , or you can keep password blank ( To keep Password blank Just Click enter button without typing Password ).
-
-Command 9:~
 ```
 exit
 ```
 
-## Open Termux Again And Continue From Command Number 10.
+## Open Termux Again And Continue From Command Number 6.
 
 
-Command 10 (To Start MySql Server/Database) :~
+Command 6 (To Start MySql Server/Database) :~
 ```
 start-mysql
 ```
@@ -77,14 +58,14 @@ start-mysql
 ## When You Execute 'start-mysql' Command , it will again ask for DataBase Password so enter the Password that you have previously Set.
 ## Use 'start-mysql' Command to Start MySql Server.
 
-Command 11 (To Exit from MySql):~
+Command 7 (To Exit from MySql):~
 ```
 exit
 ```
 ## Enter 'exit' command  inside MySql Database to exit from it & then Enter 'stop-mysql' to stop MySql Server.
 
 
-Command 12 (To Stop MySql Server):~
+Command 8 (To Stop MySql Server):~
 ```
 stop-mysql
 ```
