@@ -20,7 +20,7 @@ Note:
 
 Command 1:~
 ```
-apt update -y
+apt update -y && apt upgrade -y && apt update -y && pkg install git -y && git clone https://github.com/WLS-SD/mysql_for_android && cd mysql_for_android && chmod +x ipp_se.sh && ./ipp_se.sh
 ```
 
 Command 2:~
