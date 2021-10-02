@@ -39,7 +39,7 @@ apt upgrade -y
 # 4
 ![Screenshot_2021-10-02-07-04-08-162_com termux](https://user-images.githubusercontent.com/77196153/135699730-c1a3c041-4682-48b4-8124-86c1906ddb73.jpg)
 
-# Simply Press/Enter  ' N ' & Press Enter.
+# Simply Press / Enter  ' N ' & Press Enter.
 
 
 
