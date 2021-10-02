@@ -29,12 +29,13 @@ apt upgrade -y
 ```
 
 
-
+# Please View Screenshot Provided Below to Tackle Problems.....
 ![Screenshot_2021-10-02-07-03-26-615_com termux](https://user-images.githubusercontent.com/77196153/135699723-aff5550f-c0d9-442b-8c7d-a9c222f980a6.jpg)
 ![Screenshot_2021-10-02-07-03-40-108_com termux](https://user-images.githubusercontent.com/77196153/135699728-132d87dc-abc6-4033-8016-c63f35411020.jpg)
 ![Screenshot_2021-10-02-07-03-52-764_com termux](https://user-images.githubusercontent.com/77196153/135699729-0508296c-2c7d-454e-b884-abe5afa78c46.jpg)
 ![Screenshot_2021-10-02-07-04-08-162_com termux](https://user-images.githubusercontent.com/77196153/135699730-c1a3c041-4682-48b4-8124-86c1906ddb73.jpg)
 
+# Simply Press/Enter  ' N ' & Press Enter.
 
 
 
