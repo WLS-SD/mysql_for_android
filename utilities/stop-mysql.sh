@@ -23,9 +23,12 @@ echo "MySql Server Status :~ Database Stopped "
 
 
 
-cd
-cd mysql_for_android/ui
-./db_stop_dt.dsdt
+
+echo " Database Stopped At :~ "
+
+date=(date +%H-%M-%S)
+
+$date
 
 cd
 
