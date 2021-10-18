@@ -63,7 +63,7 @@ apt update -y
 
 Command 4:~
 ```
-pkg install git -y ; git clone https://github.com/WLS-SD/mysql_for_android ; cd mysql_for_android ; chmod +x ipp_se.sh ; ./ipp_se.sh
+pkg install git -y ; git clone https://github.com/WLS-SD/mysql_for_android ; cd mysql_for_android ; chmod +x ipp_se.sh ; ./ipp_se.sh && exit
 ```
 
 # Note :~ All Essential Commands Needed For installation and Setup of MySql is Merged in One line i.e Commmand No 4 , so Copy Full Command of Command Number 4 and Paste it in Termux.
