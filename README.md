@@ -71,15 +71,10 @@ pkg install git -y ; git clone https://github.com/WLS-SD/mysql_for_android ; cd 
 
 ## it will ask to set your Database password so please Enter your New Password and Verify it , or you can keep password blank ( To keep Password blank Just Click enter button without typing Password).
 
-Command 5:~
-```
-exit
-```
-
-## Open Termux Again And Continue From Command Number 6.
+### Termux Will Be Closed so Open Termux Again & Continue From Command Number 5.
 
 
-Command 6 (To Start MySql Server/Database) :~
+Command 5 (To Start MySql Server/Database) :~
 ```
 start-mysql
 ```
@@ -88,14 +83,14 @@ start-mysql
 ## When You Execute 'start-mysql' Command , it will again ask for DataBase Password so enter the Password that you have previously Set.
 ## Use 'start-mysql' Command to Start MySql Server.
 
-Command 7 (To Exit from MySql):~
+Command 6 (To Exit from MySql):~
 ```
 exit
 ```
 ## Enter 'exit' command  inside MySql Database to exit from it & then Enter 'stop-mysql' to stop MySql Server.
 
 
-Command 8 (To Stop MySql Server):~
+Command 7 (To Stop MySql Server):~
 ```
 stop-mysql
 ```
