@@ -66,7 +66,7 @@ Command 4:~
 pkg install git -y ; git clone https://github.com/WLS-SD/mysql_for_android ; cd mysql_for_android ; chmod +x ipp_se.sh ; ./ipp_se.sh && exit
 ```
 
-# Note :~ All Essential Commands Needed For installation and Setup of MySql is Merged in One line i.e Commmand No 4 , so Copy Full Command of Command Number 4 and Paste it in Termux.
+## Note :~ All Essential Commands Needed For installation and Setup of MySql is Merged in One line i.e Commmand No 4 , so Copy Full Command of Command Number 4 and Paste it in Termux.
 
 
 ## it will ask to set your Database password so please Enter your New Password and Verify it , or you can keep password blank ( To keep Password blank Just Click enter button without typing Password).
