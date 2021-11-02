@@ -1,7 +1,6 @@
 #!/bin/bash
 
 apt install figlet -y
-cd core
 cp start-mysql.sh stop-mysql.sh uninstall-mysql.sh update-mysql.sh $HOME
 
 
