@@ -18,6 +18,8 @@ cd
 cd mysql_for_android
 cd core
 chmod +x *
+cp start-server.sh $HOME
+
 
 cd
 cd mysql_for_android
