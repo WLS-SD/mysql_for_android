@@ -1,6 +1,6 @@
 # mysql-for-termux
 
-# Version 2.0 , Updated on March 7 , 2022.
+# Note :~ This Repo is Under Maintenance ,, so This Tool Will Not Work Now .. Wait Until i Fix it .
 
 
 ![mysql-logo_2800x2800_pixels1](https://user-images.githubusercontent.com/77196153/135602106-cc7d5c6d-e9a4-472e-af75-ff83cf6c9784.png)
