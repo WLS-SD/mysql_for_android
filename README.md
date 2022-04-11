@@ -1,6 +1,6 @@
 # mysql-for-termux
 
-# Note :~ This Repo is Under Maintenance ,, so This Tool Will Not Work Now .. Wait Until i Fix it .
+# Note :~ Some Minor & Major Bugs Are Fixed and Now this Tool Work in Buttery Speed..😘
 
 
 ![mysql-logo_2800x2800_pixels1](https://user-images.githubusercontent.com/77196153/135602106-cc7d5c6d-e9a4-472e-af75-ff83cf6c9784.png)
