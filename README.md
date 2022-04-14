@@ -15,7 +15,8 @@ Note:
 * This _only_ works for Android devices.
 
 
-![WLS-SD's GitHub stats](https://github-readme-stats.vercel.app/api?username=WLS-SD&show_icons=true)
+![WLS-SD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WLS-SD&show_icons=true&theme=aura)
+
 
 
 ## Please install termux application from Google PlayStore.
