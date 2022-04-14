@@ -16,6 +16,9 @@ Note:
 
 ![WLS-SD's GitHub stats](https://github-readme-stats.vercel.app/api?username=WLS-SD&hide=contribs,prs)
 
+![WLS-SD's GitHub stats](https://github-readme-stats.vercel.app/api?username=WLS-SD&count_private=true)
+
+
 ## Please install termux application from Google PlayStore.
 [Download Termux](https://play.google.com/store/apps/details?id=com.termux).
 
