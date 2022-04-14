@@ -1,9 +1,12 @@
 # mysql-for-termux
 
-## Note :~ Some Minor & Major Bugs Are Fixed and Now this Tool Work in Buttery Speed..😘
+![WLS-SD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WLS-SD&show_icons=true&theme=aura)
 
 
 ![mysql-logo_2800x2800_pixels1](https://user-images.githubusercontent.com/77196153/135602106-cc7d5c6d-e9a4-472e-af75-ff83cf6c9784.png)
+
+## Note :~ Some Minor & Major Bugs Are Fixed and Now this Tool Work in Buttery Speed..😘
+
 
 
 **This Tool is For  students to install and run a MySQL server on their Android device with help of Termux Application & This Tool.**  
@@ -13,9 +16,6 @@ This Tool is Developed & Maintained by https://github.com/WLS-SD under GNU GENER
   
 Note:
 * This _only_ works for Android devices.
-
-
-![WLS-SD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WLS-SD&show_icons=true&theme=aura)
 
 
 
