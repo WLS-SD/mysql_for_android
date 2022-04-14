@@ -1,6 +1,5 @@
-# mysql-for-termux
+# Mysql-For-Termux
 
-![WLS-SD's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WLS-SD&show_icons=true&theme=aura)
 
 
 ![mysql-logo_2800x2800_pixels1](https://user-images.githubusercontent.com/77196153/135602106-cc7d5c6d-e9a4-472e-af75-ff83cf6c9784.png)
