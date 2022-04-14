@@ -14,7 +14,6 @@ This Tool is Developed & Maintained by https://github.com/WLS-SD under GNU GENER
 Note:
 * This _only_ works for Android devices.
 
-![WLS-SD's GitHub stats](https://github-readme-stats.vercel.app/api?username=WLS-SD&hide=contribs,prs)
 
 ![WLS-SD's GitHub stats](https://github-readme-stats.vercel.app/api?username=WLS-SD&count_private=true)
 
