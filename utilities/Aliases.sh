@@ -5,7 +5,7 @@ GREEN="\e[92m"
 printf "${GREEN}"
                                                                                
 
-for name in start-mysql stop-mysql uninstall-mysql update-mysql
+for name in change-password-mysql start-mysql stop-mysql uninstall-mysql update-mysql
 do
 	chmod u+x "${name}.sh" &&
 	echo "Made '${name}.sh'has become executable successfully" ||
