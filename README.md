@@ -104,7 +104,10 @@ stop-mysql
 
 
 
-
+Command 8 (To Change Password of Mysql Database) :~
+```
+change-password-mysql
+```
 
 
 
@@ -113,7 +116,7 @@ stop-mysql
 ## Use 'stop-mysql' Command to Stop MySql Server.
 ## Use 'update-mysql' Command to Update MySql Through This Repo.
 ## Use 'uninstall-mysql' Command to Uninstall MySql/MariaDb and all it's Dependencies.
-
+## Use 'change-password-mysql' Command to Change Password Of MySQL Database. 
 
 
 ## Requirements Needed For Installation:~
