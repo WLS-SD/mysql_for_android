@@ -17,9 +17,9 @@ Note:
 * This _only_ works for Android devices.
 
 ## Dependencies Required :~
-1. Mariadb Package (Aarch64 Debian Package).
-2. Figlet (For Ui).
-3. Git (For Cloning This Repository).
+# 1. Mariadb Package (Aarch64 Debian Package).
+# 2. Figlet (For Ui).
+# 3. Git (For Cloning This Repository).
 
 
 ## Please install termux application from Google PlayStore.
