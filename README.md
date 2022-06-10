@@ -16,10 +16,10 @@ This Tool is Developed & Maintained by https://github.com/WLS-SD under GNU GENER
 Note:
 * This _only_ works for Android devices.
 
-## Dependencies Required :~
-# 1. Mariadb Package (Aarch64 Debian Package).
-# 2. Figlet (For Ui).
-# 3. Git (For Cloning This Repository).
+# Dependencies Required :~
+## 1. Mariadb Package (Aarch64 Debian Package).
+## 2. Figlet (For Ui).
+## 3. Git (For Cloning This Repository).
 
 
 ## Please install termux application from Google PlayStore.
