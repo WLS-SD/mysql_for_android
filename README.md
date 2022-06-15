@@ -22,8 +22,10 @@ Note:
 ### 3. Git (For Cloning This Repository).
 
 
-# Please install termux application from Google PlayStore.
-[Download Termux](https://play.google.com/store/apps/details?id=com.termux).
+# Please install termux application from F-Droid Website.
+[Download Termux](https://f-droid.org/en/packages/com.termux/).
+
+### Note :~ Termux is a Free And Open Source Project so it's Source Code is Publicly Available in GitHub,GitLabs Etc ,, So You Shouldn't Worry about Your Privacy , Termux is Safer Than Facebook , Messenger , Youtube , Tiktok , Google Etc  because Termux is Non Profit Open Source and it doesn't Collect any Data From You.
 
 ## After installation of termux , open it and just copy paste the commands given below.
 
