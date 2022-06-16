@@ -27,6 +27,11 @@ Note:
 
 ### Note :~ Termux is a Free And Open Source Project so it's Source Code is Publicly Available in GitHub,GitLabs Etc ,, So You Shouldn't Worry about Your Privacy , Termux is Safer Than Facebook , Messenger , Youtube , Tiktok , Google Etc  because Termux is Non Profit Open Source Project and it doesn't Collect any Data From You.
 
+
+# Watch Official Installation Video :~ [Watch it in YouTube](https://youtu.be/POU_pcfUVn8).
+
+
+
 ## After installation of termux , open it and just copy paste the commands given below.
 
 ## Commands:~
