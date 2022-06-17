@@ -63,11 +63,18 @@ echo "Password Changed Succesfully"
 echo " Your New Password is :~ $pass2 "
 
 
-sleep 5
+sleep 2
 Green="\e[92m"
 
 
 printf "${Green}"
 
 echo "You have changed your password  if you forget it .. to change it Just Type 'change-password-mysql'"
+echo "   "
 
+sleep 2
+cd
+echo "     "
+echo "Stopping Mysql"
+echo "     "
+./stop-mysql.sh
