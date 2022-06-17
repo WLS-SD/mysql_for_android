@@ -7,9 +7,12 @@ cd
 cd mysql_for_android/core
 ./start-server.sh
 
+
 cd
 cd mysql_for_android
-cd ui                                                ./stop-mysql-ui.sh
+cd ui
+./stop-mysql-ui.sh
+
 
 Green="\e[92m"
 
@@ -66,4 +69,5 @@ Green="\e[92m"
 
 printf "${Green}"
 
-echo "You have change your password  if you forget it .. to change it Just Type 'change-password-mysql'"
+echo "You have changed your password  if you forget it .. to change it Just Type 'change-password-mysql'"
+
