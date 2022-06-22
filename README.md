@@ -20,7 +20,7 @@ Note:
 ### 1. Mariadb Package (Aarch64 Debian Package).
 ### 2. Figlet (For Ui).
 ### 3. Git (For Cloning This Repository).
-### 4. This Repo/Tool(Collection of Shell Scripts).
+### 4. This Repo / This Tool (Collection of Shell Scripts).
 
 
 # Please install termux application from F-Droid Website.
